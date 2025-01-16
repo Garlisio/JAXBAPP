@@ -1,1 +1,3 @@
 # JAXBAPP
+
+[DOCUMENTACIÓN APLICACIÓN JAXB.pdf](https://github.com/user-attachments/files/18442798/DOCUMENTACION.APLICACION.JAXB.pdf)
